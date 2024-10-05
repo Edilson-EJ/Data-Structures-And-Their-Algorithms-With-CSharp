@@ -1,6 +1,6 @@
 ﻿using Linear_List.Models; 
 
-        // Criar uma instância da lista linear
+        // Create an instance of the linear list
         LinearListOperations list = new LinearListOperations(); 
 
         // Adicionar itens à lista
@@ -8,20 +8,20 @@
         list.AddItem(20);
         list.AddItem(30);
 
-        // Exibir a lista
+        /// Add items to the list
         list.DisplayList();
 
-        // Buscar um item na lista
+        // Search for an item in the list
         list.SearchItem(20);  
         list.SearchItem(40);  
 
-        // Remover um item da lista
+        // Remove an item from the list
         list.RemoveItem(20);
 
-        // Exibir a lista atualizada
+        // Display the updated list
         list.DisplayList();
 
-        // Tentar remover um item que não existe
+        // Trying to remove an item that doesn't exist
         list.RemoveItem(50);
 
 

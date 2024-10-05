@@ -1,0 +1,5 @@
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Pile data structure\obj\Debug\net8.0\Stack data structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Pile data structure\obj\Debug\net8.0\Stack data structure.AssemblyInfoInputs.cache
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Pile data structure\obj\Debug\net8.0\Stack data structure.AssemblyInfo.cs
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Pile data structure\obj\Debug\net8.0\Stack data structure.csproj.CoreCompileInputs.cache
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Pile data structure\obj\Debug\net8.0\Stack data structure.sourcelink.json

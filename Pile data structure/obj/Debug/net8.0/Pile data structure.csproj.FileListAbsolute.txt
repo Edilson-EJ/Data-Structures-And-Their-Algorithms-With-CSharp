@@ -1,0 +1,15 @@
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Pile data structure\obj\Debug\net8.0\Pile data structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Pile data structure\obj\Debug\net8.0\Pile data structure.AssemblyInfoInputs.cache
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Pile data structure\obj\Debug\net8.0\Pile data structure.AssemblyInfo.cs
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Pile data structure\obj\Debug\net8.0\Pile data structure.csproj.CoreCompileInputs.cache
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Pile data structure\obj\Debug\net8.0\Pile data structure.sourcelink.json
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Pile data structure\bin\Debug\net8.0\Pile data structure.exe
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Pile data structure\bin\Debug\net8.0\Pile data structure.deps.json
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Pile data structure\bin\Debug\net8.0\Pile data structure.runtimeconfig.json
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Pile data structure\bin\Debug\net8.0\Pile data structure.dll
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Pile data structure\bin\Debug\net8.0\Pile data structure.pdb
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Pile data structure\obj\Debug\net8.0\Pile data structure.dll
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Pile data structure\obj\Debug\net8.0\refint\Pile data structure.dll
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Pile data structure\obj\Debug\net8.0\Pile data structure.pdb
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Pile data structure\obj\Debug\net8.0\Pile data structure.genruntimeconfig.cache
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Pile data structure\obj\Debug\net8.0\ref\Pile data structure.dll
