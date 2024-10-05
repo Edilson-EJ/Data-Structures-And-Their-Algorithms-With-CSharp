@@ -1,0 +1,15 @@
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Linear-List\obj\Debug\net8.0\Linear-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Linear-List\obj\Debug\net8.0\Linear-List.AssemblyInfoInputs.cache
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Linear-List\obj\Debug\net8.0\Linear-List.AssemblyInfo.cs
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Linear-List\obj\Debug\net8.0\Linear-List.csproj.CoreCompileInputs.cache
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Linear-List\obj\Debug\net8.0\Linear-List.sourcelink.json
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Linear-List\bin\Debug\net8.0\Linear-List.exe
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Linear-List\bin\Debug\net8.0\Linear-List.deps.json
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Linear-List\bin\Debug\net8.0\Linear-List.runtimeconfig.json
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Linear-List\bin\Debug\net8.0\Linear-List.dll
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Linear-List\bin\Debug\net8.0\Linear-List.pdb
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Linear-List\obj\Debug\net8.0\Linear-List.dll
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Linear-List\obj\Debug\net8.0\refint\Linear-List.dll
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Linear-List\obj\Debug\net8.0\Linear-List.pdb
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Linear-List\obj\Debug\net8.0\Linear-List.genruntimeconfig.cache
+C:\Users\edils\Desktop\Edilson\Data-Structures-And-Their-Algorithms-With-CSharp\Data-Structures-And-Their-Algorithms-With-CSharp\Linear-List\obj\Debug\net8.0\ref\Linear-List.dll
