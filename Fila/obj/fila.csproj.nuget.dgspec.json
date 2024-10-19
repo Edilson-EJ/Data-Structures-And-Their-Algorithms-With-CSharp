@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edils\\Desktop\\Edilson\\Data-Structures-And-Their-Algorithms-With-CSharp\\Data-Structures-And-Their-Algorithms-With-CSharp\\fila\\fila.csproj": {}
+    "C:\\Users\\edils\\Desktop\\Edilson\\Data-Structures-And-Their-Algorithms-With-CSharp\\Data-Structures-And-Their-Algorithms-With-CSharp\\Fila\\fila.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edils\\Desktop\\Edilson\\Data-Structures-And-Their-Algorithms-With-CSharp\\Data-Structures-And-Their-Algorithms-With-CSharp\\fila\\fila.csproj": {
+    "C:\\Users\\edils\\Desktop\\Edilson\\Data-Structures-And-Their-Algorithms-With-CSharp\\Data-Structures-And-Their-Algorithms-With-CSharp\\Fila\\fila.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edils\\Desktop\\Edilson\\Data-Structures-And-Their-Algorithms-With-CSharp\\Data-Structures-And-Their-Algorithms-With-CSharp\\fila\\fila.csproj",
+        "projectUniqueName": "C:\\Users\\edils\\Desktop\\Edilson\\Data-Structures-And-Their-Algorithms-With-CSharp\\Data-Structures-And-Their-Algorithms-With-CSharp\\Fila\\fila.csproj",
         "projectName": "fila",
-        "projectPath": "C:\\Users\\edils\\Desktop\\Edilson\\Data-Structures-And-Their-Algorithms-With-CSharp\\Data-Structures-And-Their-Algorithms-With-CSharp\\fila\\fila.csproj",
+        "projectPath": "C:\\Users\\edils\\Desktop\\Edilson\\Data-Structures-And-Their-Algorithms-With-CSharp\\Data-Structures-And-Their-Algorithms-With-CSharp\\Fila\\fila.csproj",
         "packagesPath": "C:\\Users\\edils\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edils\\Desktop\\Edilson\\Data-Structures-And-Their-Algorithms-With-CSharp\\Data-Structures-And-Their-Algorithms-With-CSharp\\fila\\obj\\",
+        "outputPath": "C:\\Users\\edils\\Desktop\\Edilson\\Data-Structures-And-Their-Algorithms-With-CSharp\\Data-Structures-And-Their-Algorithms-With-CSharp\\Fila\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edils\\AppData\\Roaming\\NuGet\\NuGet.Config",
